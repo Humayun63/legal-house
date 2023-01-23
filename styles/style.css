@@ -37,7 +37,12 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-
+/* FAQ QUESTIONS FOCUS REMOVE */
+.accordion-button:focus {
+    box-shadow: none;
+    border-color: rgba(0,0,0,.125);
+    background-color: #cfe2ff!important;
+}
 /* FOR RESPONSIVENESS */
 @media only screen and (min-width:768px) and (max-width:992px) {
     .legal-header-banner{
