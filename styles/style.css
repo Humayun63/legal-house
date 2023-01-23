@@ -16,6 +16,10 @@
     background-size: 100% 100%;
     height: 80vh;
 }
+/* HOVER CARDS */
+.ls-hover-cards:hover{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
 
 
 /* FOR RESPONSIVENESS */
