@@ -1,0 +1,11 @@
+/* BASIC SETUP */
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.legal-bg-primary{
+    background: #B68C5A!important;
+}
+/* HIDE DROPDOWN DEFAULT ICON */
+.dropdown-toggle::after{
+    display: none!important;
+}
